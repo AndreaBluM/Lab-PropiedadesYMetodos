@@ -22,7 +22,7 @@ function reproductor(){
         console.log("Musica detenida")
     }
 }
-
+                
 let reproductor1 = new reproductor()
 reproductor1.play()
 console.log(reproductor1.estado)
